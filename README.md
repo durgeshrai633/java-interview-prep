@@ -17,4 +17,15 @@ A guide for engineers to prepare for java interviews.
     - Abstraction
     - Encapsulation
 
-- 
+- Class 
+    - Final Class
+    - Anonymous Class
+    - Static Class
+    - Abstract Class
+    - Concrete Class
+    - Singeleton Class
+    - POJO Class
+    - Inner Class
+
+
+
